@@ -27,3 +27,9 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. **Clone the repository:**
 2. **Navigate to the project directory**
 3. **Install the dependencies using npm install**
+
+
+## How it works 
+
+![chatapp GIF](/chatapp.gif)
+
